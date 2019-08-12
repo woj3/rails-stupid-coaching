@@ -1,0 +1,2 @@
+module AskControllerHelper
+end
